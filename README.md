@@ -1,4 +1,3 @@
 # hello-world
 
-Joshua Boter
-BSIT-3
+Application Development and Emerging Technologies
